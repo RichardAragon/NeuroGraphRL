@@ -35,8 +35,7 @@ Graph Attention Networks (GATs): Processes game levels represented as graphs.
 Energy-Conserving Module: Monitors the agent's energy level and penalizes wasteful actions.
 Dueling Q-Network: Splits the neural network into value and advantage streams to improve the stability of Q-learning.
 Model Diagram
-diff
-Copy code
+
 +---------------------------+
 |        Input Frames       |
 +---------------------------+
